@@ -91,5 +91,7 @@ Started in **mechatronics & embedded systems**, now building **end-to-end AI pro
 
 ---
 
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
