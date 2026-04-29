@@ -1,21 +1,21 @@
 # 👋 About Me
 
-I’m an **AI Full-Stack Engineer specializing in LLM systems, automation, and production-grade AI applications**.
+I’m an **AI Full-Stack Engineer specializing in LLM systems, AI agents, and production-grade applications** — building end-to-end systems from backend APIs to intelligent interfaces.
 
 🔭 I’m currently working on  
-Production-ready **LLM systems, RAG pipelines, AI agents, and automation workflows** using Python, LangChain, vector databases, n8n, and Make.com — focused on real-world deployment, not prototypes.
+Production-ready **LLM systems, RAG pipelines, AI agents, and automation workflows** using Python, LangChain, vector databases, n8n, and Make.com — integrated with scalable backends and modern web apps.
 
 👯 I’m looking to collaborate on  
-LLM infrastructure, RAG frameworks, AI agents, and applied AI systems that solve real business or industrial problems.
+LLM infrastructure, AI agents, full-stack AI applications, and real-world systems that combine **AI + backend + frontend**.
 
 🌱 I’m currently learning  
-Advanced **LLM architecture, agent orchestration, evaluation pipelines, and scalable data systems**.
+Advanced **agentic AI systems, LLM orchestration, evaluation pipelines, and scalable AI architectures**.
 
 💬 Ask me about  
-LLMs, RAG pipelines, LangChain, Python, automation systems, computer vision, and deploying AI into production environments.
+LLMs, RAG pipelines, LangChain, MERN stack, FastAPI, Next.js, automation systems, and deploying AI into production.
 
 ⚡ Background  
-Started in **mechatronics & embedded systems**, now focused on building **end-to-end intelligent AI systems**.
+Started in **mechatronics & embedded systems**, now building **end-to-end AI products** that connect real-world operations with intelligent software.
 
 ---
 
@@ -34,16 +34,23 @@ Started in **mechatronics & embedded systems**, now focused on building **end-to
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### ⚙️ Automation & Systems
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🌐 Frontend
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔁 Automation & Systems
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-000000?style=for-the-badge)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-
-### 📊 Data & Backend
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -56,9 +63,18 @@ Started in **mechatronics & embedded systems**, now focused on building **end-to
 
 ---
 
+# 🧠 Learning & Certifications
+
+- Completed **AI Engineering Tracks (LLMs, RAG, Agents, Deployment)**  
+- Completed **Claude Code & Coding Agents Training**  
+- Hands-on with **Agentic AI systems and multi-agent architectures**  
+- Focused on **real-world AI deployment and production systems**
+
+---
+
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Areeb412&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Areeb412&theme=cobalt&hide_border=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Areeb412&theme=cobalt&hide_border=false)
 
@@ -68,10 +84,10 @@ Started in **mechatronics & embedded systems**, now focused on building **end-to
 
 # 🏆 Highlights
 
-- Built **production-ready RAG systems** for document-based AI applications  
-- Developed **AI automation pipelines** reducing manual workflows significantly  
-- Applied **computer vision in industrial environments**  
-- Experience across **software + real-world systems integration**
+- Built **production-ready RAG systems**  
+- Developed **AI automation pipelines** reducing manual workflows  
+- Implemented **computer vision in industrial environments**  
+- Built **full-stack AI applications (MERN + FastAPI + Next.js)**  
 
 ---
 
