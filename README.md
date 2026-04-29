@@ -30,7 +30,11 @@ Started in **mechatronics & embedded systems**, now building **end-to-end AI pro
 
 ### 🧠 AI / LLM Engineering
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B00?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP%20Servers-1E90FF?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
